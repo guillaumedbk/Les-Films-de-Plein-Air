@@ -1,0 +1,32 @@
+.nav-link{
+    color:white;
+}
+.navbar-light .navbar-nav .nav-link{
+    color:white;
+}
+.logo{
+   height: 10vh;
+}
+.background-noir{
+    background-color: black;
+}
+.typo_titres{
+    font-family: 'Luxurious Roman', cursive;
+    
+    font-weight: bold;
+}
+.image_banner{
+    position:relative;
+}
+.titre_banner{
+    position: absolute;
+    top: 550px; left: 40px;
+    margin-left: 5%;
+    width:fit-content;
+}
+.img{
+width:30%;
+}
+.typo_intermediaire{
+    font-family: 'Open Sans'
+}
