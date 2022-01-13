@@ -12,21 +12,44 @@
 }
 .typo_titres{
     font-family: 'Luxurious Roman', cursive;
-    
+    font-family: 'Space Mono', monospace;
+    color: white;
     font-weight: bold;
 }
 .image_banner{
     position:relative;
+    filter: contrast(80%);
+  
 }
 .titre_banner{
     position: absolute;
     top: 550px; left: 40px;
     margin-left: 5%;
     width:fit-content;
+    filter: contrast(100%);
 }
 .img{
 width:30%;
 }
 .typo_intermediaire{
     font-family: 'Open Sans'
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: white;
+}
+.typo{
+    font-family:'Noto Serif', serif;
+    font-style: italic;
+    padding-left: 10px;
+    color: rgb(255, 249, 239);
+}
+.titre{
+    border-left: 5px solid #fc2222;
+}
+p{
+    font-family: 'Raleway', sans-serif;
+    color: rgb(255, 249, 239);
+}
+.carousel-indicators{
+    margin-bottom: 0;
 }
