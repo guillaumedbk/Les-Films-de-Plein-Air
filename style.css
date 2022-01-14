@@ -58,3 +58,10 @@ p{
     border:#fc2222;
     color:white;
 }
+.footer{
+    border-top: 1px solid white;
+}
+ul{
+    list-style-type: none;
+    padding-left: 0;
+}
