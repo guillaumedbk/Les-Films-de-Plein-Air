@@ -11,10 +11,9 @@
     background-color: black;
 }
 .typo_titres{
-    font-family: 'Luxurious Roman', cursive;
-    font-family: 'Space Mono', monospace;
+    font-family:'Noto Serif', serif;
     color: white;
-    font-weight: bold;
+    font-style: italic;
 }
 .image_banner{
     position:relative;
