@@ -53,3 +53,8 @@ p{
 .carousel-indicators{
     margin-bottom: 0;
 }
+.rouge{
+    background-color: #fc2222;
+    border:#fc2222;
+    color:white;
+}
